@@ -1,4 +1,4 @@
-# wyarde.github.io
+# Home
 
 Welcome to my Github pages
 
