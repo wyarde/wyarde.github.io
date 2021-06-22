@@ -4,7 +4,4 @@ parent: Talks
 has_children: false
 nav_order: 1
 ---
-
-# Child of test
-
-I am a child page.
+<iframe src="https://wyarde.github.io/talk-store-build-metadata-in-git" frameborder="0" allowfullscreen></iframe>
