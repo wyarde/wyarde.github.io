@@ -1,5 +1,5 @@
 ---
-title: Talk - How (not) to store build metadata in git
+title: How (not) to store build metadata in git
 parent: Talks
 has_children: false
 nav_order: 1
